@@ -1,6 +1,6 @@
 | title | type | category | readtime | imageurl | tags |
 |-------|------|----------|-----------|----------|------|
-| 10 Ways AI is Revolutionizing Affiliate Marketing in 2024 | article | Marketing | 7 | /api/placeholder/800/400 | AI, Affiliate Marketing, Digital Marketing, Revenue Growth |
+| 10 Ways AI is Revolutionizing Affiliate Marketing in 2024 | article | Marketing | 7 | https://claude.ai/api/placeholder/800/400 | AI, Affiliate Marketing, Digital Marketing, Revenue Growth |
 
 # 10 Ways AI is Revolutionizing Affiliate Marketing in 2024
 
