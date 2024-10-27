@@ -1,6 +1,6 @@
 | title | type | category | readtime | imageurl | tags |
 |-------|------|----------|-----------|----------|------|
-| Risk Assessment Policy | articles | Legal | 20 | https://github.com/cosmixcom/admatch-articles/blob/main/static/legal.png | legal, terms, policy, risks |
+| Risk Assessment Policy | articles | Legal | 20 | https://raw.githubusercontent.com/cosmixcom/admatch-articles/refs/heads/main/static/legal.png | legal, terms, policy, risks |
 
 # Risk Assessment Policy for Ad Partnership Services
 
