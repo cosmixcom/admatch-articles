@@ -1,6 +1,6 @@
 | title | type | category | readtime | imageurl | tags |
 |-------|------|----------|-----------|----------|------|
-| Platform Guidelines | articles | Legal | 10 | https://placehold.co/800x400 | legal, policy, guidelines, platform terms, community guidelines, platform guidelines |
+| Platform Guidelines | articles | Legal | 10 | https://raw.githubusercontent.com/cosmixcom/admatch-articles/refs/heads/main/static/legal.png | legal, policy, guidelines, platform terms, community guidelines, platform guidelines |
 
 # AdMatch Platform Guidelines
 
